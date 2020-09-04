@@ -2,13 +2,15 @@
 
 ## Blockchain	
 
-DLT[^1] allows us to have a single data silo (albeit specialized) that is spread across all users of the network. Smart-Contracts make use of that ability to allow decentralized computing (among other benefits).
+DLT[^1] allows us to have a single data silo (albeit specialized) that is spread across all users of the network. Smart-Contracts make use of the ability to allow decentralized computing (among other benefits).
 
-Common naming of dApps[^2] is using smart contracts on blockchain platforms like Ethereum. A few issues arise from its model:
+DApps[^2] are successfully using smart contracts on blockchain platforms such as Ethereum. Note that they are many competitors to Ethereum but it is still by far the most popular blockchain supporting smart contracts. 
 
-- Paid transactions by the user (meaning a dApp user should buy some underlying network asset to use the Dapp)
-- Reliance on inclusion in a block (dependant on the block time of the relevant blockchain, making dApps slow)
-- On-chain storage is very expensive, making it unsuitable for media content or large documents.
+However, all this projects suffer these issues:
+
+- Transactions Fees Paid By Users - meaning users must buy crypto assets to be able to use the DApp
+- Reliance On Block Inclusion - making dApps slow as it is dependant on the block time of the relevant blockchain
+- Expensive On-chain Storage - making it unsuitable for media content or large documents
 
 There are a lot of existing blockchain platforms currently active [see @coinmarketcap].
 
