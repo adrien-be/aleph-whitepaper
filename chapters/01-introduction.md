@@ -4,11 +4,13 @@ The Internet was originally built to connect computers together. It has been use
 
 In a purely economically driven world; simplicity, centralization, and non-standard data models tend to win out.
 
-What is our internet today? Silos loosely connected together, users having data in each of those silos (Facebook, Google, and many others), with no simple way to port it over. [see @kyledrake]
+We live in a world of data silos.
 
-There are a lot of attempts at breaking those silos, from connection from silo to silo (iftt, rgpd for data request, opendata programs...), to decentralized networks of silos (mastodon). We are living in a world of data silos.
+What is our internet today? Silos loosely connected together, users having data in each of them (whether Facebook, Google, or others) and with no simple way to port data from silo to another. [see @kyledrake]
 
-In itself, that isn't bad if those silos were easily accessible and decentralized. Users don't know it, but they need to reclaim their data.
+There are many attempts at breaking those silos: ranging from projects connecting silo with one another (i.e. iftt, rgpd for data request, opendata programs) to decentralized networks of silos (mastodon).
+
+In itself, that isn't bad if those silos were easily accessible and decentralized. However it is not the case, users give near full control over their data to big corporations and hope for the best. It is time for users to reclaim their data, to take back the power they have given away often without even their consent.
 
 ```{.mermaid caption="Typical centralized application"}
 graph LR
